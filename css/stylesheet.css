@@ -1,0 +1,63 @@
+body {
+    text-align: center;
+    background-color: rgb(245, 243, 240);
+    padding: 0 1em;
+}
+
+h1,
+h2,
+h3 {
+    font-family: 'Alumni Sans Pinstripe', sans-serif;
+    font-family: 'Orbitron', sans-serif;
+    font-family: 'Quicksand', sans-serif;
+    font-family: 'Qwitcher Grypen', cursive;
+    font-family: 'Raleway', sans-serif;
+
+}
+
+h1 {
+    font-size: 1.5em;
+    padding: 15px;
+    font-weight: bold;
+}
+
+h2 {
+    margin-top: 2rem;
+    font-size: 1.5em;
+    text-transform: uppercase;
+    font-weight: 400;
+}
+
+h3 {
+    font-size: 1.5em;
+    padding: 1em;
+}
+
+
+
+nav li {
+    padding: 15px 10px;
+    background-color: white;
+    margin: 5px 15px;
+    font-family: 'Alumni Sans Pinstripe', sans-serif;
+    font-family: 'Orbitron', sans-serif;
+    font-family: 'Quicksand', sans-serif;
+    font-family: 'Qwitcher Grypen', cursive;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+}
+
+p {
+    font-family: 'Alumni Sans Pinstripe', sans-serif;
+    font-family: 'Orbitron', sans-serif;
+    font-family: 'Quicksand', sans-serif;
+    font-family: 'Qwitcher Grypen', cursive;
+    font-family: 'Raleway', sans-serif;
+    line-height: 1.5;
+    font-size: 1.2em;
+}
+
+img {
+    max-width: 100%;
+    padding: 2em 0;
+}
